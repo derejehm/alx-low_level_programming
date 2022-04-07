@@ -3,9 +3,9 @@
  */
 
 #include <stdio.h>
-
-/*
-* main function
+/**
+*main - main function
+*Return: 0- to exit
 */
 int main(void)
 {
