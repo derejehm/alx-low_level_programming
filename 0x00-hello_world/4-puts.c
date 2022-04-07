@@ -1,3 +1,6 @@
+/*
+ * display using put
+ */
 
 #include <stdio.h>
 
